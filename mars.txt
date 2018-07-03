@@ -4,4 +4,4 @@ The two moons may be a problem for Wolfman
 
 But the Mummy will appreciate the lack of humidity
 
-Different line in other copy
+Removed conflict in line
